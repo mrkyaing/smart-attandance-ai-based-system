@@ -26,3 +26,5 @@ AI doesn't just record data; it analyzes it. The system can identify patterns—
 
 # 8. Contactless Mobile Accessibility
 To support modern work styles and hygiene protocols, these systems often operate via cloud-based mobile apps. Users can clock in using their smartphone's camera, ensuring a touch-free and highly accessible process.
+# System Functional and Details Url
+https://northcmu-my.sharepoint.com/:p:/g/personal/s6710010164_northcm_ac_th/IQD_NsBjIO1_S4EvKdNd1neNAYaOFPw6Bd657SIk_YiZllk?e=VvJUKQ
