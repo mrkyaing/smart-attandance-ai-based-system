@@ -22,3 +22,6 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ```
 https://northcmu-my.sharepoint.com/:p:/g/personal/s6710010164_northcm_ac_th/IQD_NsBjIO1_S4EvKdNd1neNAYaOFPw6Bd657SIk_YiZllk?e=yjOynh 
 ```
+# System Deom
+<img width="467" height="264" alt="image" src="https://github.com/user-attachments/assets/e5ca8c6b-175e-4b8f-9d75-5ba3a57d2a73" />
+
