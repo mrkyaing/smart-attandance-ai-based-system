@@ -25,6 +25,7 @@ https://northcmu-my.sharepoint.com/:p:/g/personal/s6710010164_northcm_ac_th/IQD_
 # System Demo
 ## Face Registration process
 <img width="467" height="264" alt="image" src="https://github.com/user-attachments/assets/e5ca8c6b-175e-4b8f-9d75-5ba3a57d2a73" />
+
 ## check attandance before take attandance 
 <img width="467" height="218" alt="image" src="https://github.com/user-attachments/assets/5959eb6d-e2ba-4840-af66-4d1799e03567" />
 
